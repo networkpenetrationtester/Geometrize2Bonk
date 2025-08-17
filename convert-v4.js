@@ -356,4 +356,3 @@ function main(path) {
 }
 
 // main('E:\\Archiving\\bonk.io\\Maps\\Geometrize Source Files\\Irbis.json');
-// call the main method with path to your Geometrize JSON file! your bonk mapdata will be in the out field.
