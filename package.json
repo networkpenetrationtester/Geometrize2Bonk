@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "json-beautify": "^1.1.1",
+    "node": "^18.4.0",
+    "pretty": "^2.0.0"
+  },
+  "name": "geometrize2bonk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert-v4.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
